@@ -1,0 +1,39 @@
+body {
+    background-image: url('http://bcs.duapp.com/index-css/brickwall.png');
+     color: #5d5d5d;
+}
+.brief {
+    margin-top: 7em;
+    margin-bottom: 4em;
+    font-size: 1.3em;
+    text-align: center;
+    line-height: 2.6em;
+}
+.login a:hover {
+    background-image: url('http://bcs.duapp.com/index-css/shape-hover.png');
+}
+
+.introduction {
+    width: 20em;
+    margin: 5em auto;
+    text-align: center;
+    line-height: 2em;
+}
+
+.social li {
+    display: inline-block;
+    margin: 1em;
+}
+
+.login a {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    display: block;
+    background-image: url('http://bcs.duapp.com/index-css/shape.png')
+}
+
+.social {
+    margin-top: 3em;
+    display: block;
+}
