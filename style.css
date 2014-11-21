@@ -15,7 +15,7 @@ body {
 
 .introduction {
     width: 20em;
-    margin: 5em auto;
+    margin: 3em auto;
     text-align: center;
     line-height: 2em;
 }
@@ -34,6 +34,17 @@ body {
 }
 
 .social {
-    margin-top: 3em;
+    margin-top: 2em;
     display: block;
+}
+
+a.button {
+    color: #eb7070;
+}
+
+.notification {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #dedede;
+    box-shadow: 1px 1px 1px #c9c9c9 inset;
 }
