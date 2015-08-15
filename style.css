@@ -1,5 +1,5 @@
 body {
-    background-image: url('http://bcs.duapp.com/index-css/brickwall.png');
+    background-image: url('img/brickwall_@2X.png');
      color: #5d5d5d;
 }
 .brief {
@@ -8,9 +8,6 @@ body {
     font-size: 1.3em;
     text-align: center;
     line-height: 2.6em;
-}
-.login a:hover {
-    background-image: url('http://bcs.duapp.com/index-css/shape-hover.png');
 }
 
 .introduction {
@@ -30,7 +27,7 @@ body {
     height: 100px;
     margin: 0 auto;
     display: block;
-    background-image: url('http://bcs.duapp.com/index-css/shape.png')
+    background-image: url('img/logo.png');
 }
 
 .social {
