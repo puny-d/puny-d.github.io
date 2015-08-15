@@ -1,7 +1,8 @@
 body {
-    background-image: url('img/brickwall_@2X.png');
-     color: #5d5d5d;
+    background-image: url('img/brickwall.png');
+    color: #5d5d5d;
 }
+
 .brief {
     margin-top: 7em;
     margin-bottom: 4em;
@@ -17,22 +18,27 @@ body {
     line-height: 2em;
 }
 
-.social li {
-    display: inline-block;
-    margin: 1em;
-}
-
 .login a {
     width: 100px;
     height: 100px;
     margin: 0 auto;
     display: block;
-    background-image: url('img/logo.png');
+    background: transparent url('img/logo.png') center center no-repeat;
 }
 
 .social {
     margin-top: 2em;
     display: block;
+}
+
+.social li {
+    display: inline-block;
+    margin: 1em;
+}
+
+.social li img {
+    width: 1.8em;
+    height: 1.8em;
 }
 
 a.button {
